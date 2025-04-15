@@ -1,12 +1,13 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bisht28/Bisht28/main/banner.png" alt="Aryan Bisht Banner" width="100%"/>
+    👋 Hi, I'm Aryan Bisht
 </p>
 
-### 👋 Hi, I'm Aryan Bisht
-
-💻 **Software Developer** | ⚙️ Full Stack Enthusiast | ☁️ Cloud & Automation Explorer
-
----
+<p align="center">
+  💻 **Software Developer** | ⚙️ Full Stack Enthusiast | ☁️ Cloud & Automation Explorer
+</p>
+<p align="center">
+  ---
+</p>
 
 🚀 I specialize in building scalable and efficient applications using modern full stack technologies and cloud platforms. I'm passionate about solving real-world problems through clean code, smart architecture, and creative thinking.
 
